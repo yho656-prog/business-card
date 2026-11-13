@@ -1,4 +1,4 @@
-# Maximilien-Alphonse-Donatien de Saint-Cyr de Valfleur de la Tour-d'Auvergne
+# Jaime Ho
 **Information Design Student**
 
 ---
