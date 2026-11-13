@@ -5,7 +5,7 @@
 
 | Field    | Details                                                                     |
 | -------- | --------------------------------------------------------------------------- |
-| Name     | Maximilien-Alphonse-Donatien de Saint-Cyr de Valfleur de la Tour-d'Auvergne |
+| Name     | Jaime Ho |
 | Role     | Information Design Student                                                  |
 | Interest | Visual communication                                                        |
 ---
